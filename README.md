@@ -1,4 +1,4 @@
-# The-Core
+# The Core
 <h1>Inspiration </h1>
 <p>This project was inspired by iDoz's ProjectCORE that he made on GameMaker. The link to his video is as follows: https://www.youtube.com/watch?v=N-QUNRMmLg8 </p>
 <br>
